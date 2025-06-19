@@ -201,7 +201,7 @@ export default function Portfolio() {
                   </div>
                   <div className="text-center">
                     <Mail className="w-8 h-8 text-pink-400 mx-auto mb-2" />
-                    <p className="text-orange-200">sairamandam143@gmail.com</p>
+                    <p className="text-orange-200">sairamandam.mca@gmail.com</p>
                   </div>
                 </div>
               </CardContent>
@@ -575,7 +575,7 @@ export default function Portfolio() {
                 <CardContent className="p-6">
                   <Mail className="w-12 h-12 text-orange-400 mx-auto mb-4" />
                   <h3 className="text-lg font-bold text-orange-100 mb-2">Email</h3>
-                  <p className="text-orange-200">sairamandam143@gmail.com</p>
+                  <p className="text-orange-200">sairamandam.mca@gmail.com</p>
                 </CardContent>
               </Card>
             </motion.div>
